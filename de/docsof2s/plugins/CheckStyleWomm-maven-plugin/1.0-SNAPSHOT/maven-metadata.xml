@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>de.docsof2s.plugins</groupId>
+  <artifactId>CheckStyleWomm-maven-plugin</artifactId>
+  <versioning>
+    <lastUpdated>20231104091655</lastUpdated>
+    <snapshot>
+      <timestamp>20231104.091655</timestamp>
+      <buildNumber>5</buildNumber>
+    </snapshot>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>1.0-20231104.091655-5</value>
+        <updated>20231104091655</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.0-20231104.091655-5</value>
+        <updated>20231104091655</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+  <version>1.0-SNAPSHOT</version>
+</metadata>
